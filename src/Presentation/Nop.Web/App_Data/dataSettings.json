@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=localhost;Initial Catalog=lavenberryCommercedb;Integrated Security=True;Persist Security Info=False",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
